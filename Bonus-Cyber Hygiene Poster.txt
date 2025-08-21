@@ -1,0 +1,26 @@
+1. Use Strong, Unique Passwords
+
+Avoid using the same password across accounts. Use a password manager to help generate and store them securely.
+
+
+2. Think Before You Click
+
+Don’t open suspicious emails or click unknown links. Phishing attacks often look real—verify before acting.
+
+
+3. Enable Two-Factor Authentication (2FA)
+
+Adding an extra step to log in helps protect your accounts, even if your password is compromised.
+
+
+4. Keep Software Up to Date
+
+Always install updates for your devices, browsers, and apps. Updates patch security holes.
+
+
+5. Be Cautious with Public Wi-Fi
+
+Avoid accessing sensitive accounts on public networks. Use a VPN when needed.
+
+
+

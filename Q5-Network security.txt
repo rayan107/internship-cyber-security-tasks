@@ -1,0 +1,13 @@
+Network security protects systems from unauthorized access and cyber threats. Key concepts include:
+
+Firewalls: Act as barriers that filter network traffic based on rules, blocking malicious access and allowing trusted connections.
+
+VPNs (Virtual Private Networks): Encrypt your internet traffic and hide your IP address, making online activity private and secure—especially on public Wi-Fi.
+
+HTTPS: A secure version of HTTP that uses encryption (SSL/TLS) to protect data between your browser and websites, indicated by a padlock icon in your browser.
+
+Port Scanning: Used to identify open ports and services on a device—commonly done with tools like Nmap for security auditing or vulnerability detection.
+
+You can also use the ping command to test network connectivity and measure response time.
+
+These tools and practices are fundamental for maintaining secure and reliable network communication.

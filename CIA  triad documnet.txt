@@ -1,0 +1,17 @@
+
+CIA TRIAD
+
+The **CIA Triad** is a core cybersecurity model made 
+up of three principles: **Confidentiality**, **Integrity**, 
+and **Availability**. Confidentiality means keeping information 
+private and accessible only to authorized people, like protecting 
+your email with a password or encrypting financial records. 
+Integrity ensures data remains accurate and unaltered, 
+such as making sure a bank transfer of \$500 isn’t 
+changed to a different amount during processing. 
+Availability means ensuring systems and information 
+are accessible when needed, for example keeping 
+an online banking app running through backups 
+and redundant servers. 
+Together, these principles work to keep information
+ **secret, correct, and available** in any situation.
