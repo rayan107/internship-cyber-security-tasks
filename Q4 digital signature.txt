@@ -1,0 +1,12 @@
+A **digital signature** is a cryptographic technique that ensures 
+the **integrity** and **authenticity** of digital messages by using 
+a pair of public and private keys. The sender generates a unique hash 
+(fingerprint) of the message and encrypts it with their private key 
+to create the signature, which is then sent along with the message. 
+The receiver, using the sender’s public key, decrypts the signature 
+to retrieve the hash and compares it with a freshly computed hash of 
+the received message. If both match, it proves that the message is 
+authentic (sent by the claimed sender) and has not been altered (integrity). 
+For example, if Alice sends Bob the message *“Transfer \$1000 to Bob”* 
+along with a signature, Bob can verify it with Alice’s public key; a 
+successful match confirms both Alice’s identity and the message’s trustworthiness.
